@@ -1,0 +1,26 @@
+
+  li {
+  list-style-type: none;
+  }
+  * {
+  box-sizing: border-box;
+  }
+  .navbar {
+  display: flex;
+  align-items: center;
+  height: 52px;
+  background-color: #283E4A;
+  margin-bottom: 50px;
+  }
+  .navbar-list {
+  display: flex;
+  margin: 0 auto;
+  }
+  .navbar-item {
+  color: #ffffff;
+  }
+  .navbar-link {
+  color: #ffffff;
+  text-decoration: none;
+  margin-right: 20px
+  }
